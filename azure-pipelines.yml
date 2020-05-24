@@ -4,6 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
 
 # new comment - for shits and giggles
+# a second comment
 trigger:
 - master
 
